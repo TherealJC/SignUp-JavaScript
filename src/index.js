@@ -78,3 +78,7 @@ form.addEventListener('submit', function(e) {
   checkEmail(email);
   checkPasswordsMatch(password, password2);
 });
+
+// const container = document.querySelector('.form');
+// const form = container.querySelectorAll('.form');
+// const submitInput = form[0].querySelector('input[type="submit"]');
